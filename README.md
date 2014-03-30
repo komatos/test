@@ -1,5 +1,5 @@
 # JCloisterZone
-
+konstantinos
 JCloisterZone is a Java implementation of a popular board game Carcassonne.
 It supports multiplayer game on a local computer or over a network.
 Game can be also played against computer AI.
